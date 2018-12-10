@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="text_cheese">Cheese</string>
+    <string name="text_rice">Rice</string>
+    <string name="text_apple">Apples</string>
+    <string name="button_add_item">Add Item</string>
+</resources>
