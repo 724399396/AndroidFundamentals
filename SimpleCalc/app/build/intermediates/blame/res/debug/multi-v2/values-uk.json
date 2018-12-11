@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/weili/work/learning/Android/SimpleCalc/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "/home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
             "map": [
                 {
                     "source": "/home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7781ffe2bda31dd68e86c568f284ce6c/res/values-uk/values-uk.xml",
