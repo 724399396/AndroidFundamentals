@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7781ffe2bda31dd68e86c568f284ce6c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f24faffc77600f58405a732fc44d492/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/defc2b943b35fd112eba26fdfd80c5ac/AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/weili/.gradle/caches/t
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8fe46ac7634caa2b75fdf0a077472626/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/990670b0b1ada274833d63d1ab6e8aee/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3c78eb3d86cc64fcc20f55bf6493ce36/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
 	package
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f24faffc77600f58405a732fc44d492/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f24faffc77600f58405a732fc44d492/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f34ae3e4518bc8c660d8ce3b074d920a/AndroidManifest.xml:22:5-94
@@ -59,33 +59,33 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f34ae3e4518bc8c660d8ce3b074d920a/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
 	android:icon
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
 	android:allowBackup
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
 activity#com.example.android.SimpleCalc.MainActivity
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
 	android:name
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7781ffe2bda31dd68e86c568f284ce6c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7781ffe2bda31dd68e86c568f284ce6c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f24faffc77600f58405a732fc44d492/AndroidManifest.xml:5:5-7:41
@@ -140,13 +140,13 @@ MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transfo
 MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/990670b0b1ada274833d63d1ab6e8aee/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3c78eb3d86cc64fcc20f55bf6493ce36/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3c78eb3d86cc64fcc20f55bf6493ce36/AndroidManifest.xml:20:5-44
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		ADDED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
-		INJECTED from /home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/Android/SimpleCalc/app/src/main/AndroidManifest.xml

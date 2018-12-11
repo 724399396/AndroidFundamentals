@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Dec 11 14:06:05 CST 2018
+#Tue Dec 11 21:02:15 CST 2018
 0.baseType=DIRECTORY
-0.base=/home/weili/work/learning/AndroidFundamentals/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/home/weili/work/learning/Android/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1
