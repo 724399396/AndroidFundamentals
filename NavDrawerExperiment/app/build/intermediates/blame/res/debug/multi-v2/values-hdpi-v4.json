@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5c742dff4a68776688e61fe40d02aa6/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

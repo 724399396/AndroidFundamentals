@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+MERGED from [com.android.support:design:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/edfe568a1e3e057ba417f223401d0382/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5c742dff4a68776688e61fe40d02aa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8a7254d40992efc6859c2b2834df1a2c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/207aac47a6798ea36b0a2ab1b3468a20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/71d280e735164a107c642218fca1a22a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a23c518fa7cc1c527e2ea019a7f160f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4a0342e2f24c4b0e696cfb90a0c5246f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/aa361c3b046f70ff902f7fd72e11b6d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c1750bb6ca23470fe74186d761eb92c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ee8c95fbfd9bdb64416524618a28cee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/a0f7dceb279531a16bfc418b55b42789/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7c8d995f3c9381f80b56104d95b2ad54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4fb809ab0d5bc55e328b6f5c53fbd42e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f003bc13290da081837184af5df89d16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0a8d15d58bbf293e03321804b2157a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e33884e214e9f13a2f1508f1e918585d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3b6e6d3bf128e010df2136cbd615c2b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a077f20cce34b56ffff821a8e3133e88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c801aa6492c1e453eedcb6c5d1aef10a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3689f3baabdcc507642891c84162a84e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/890916462517ecd09743e9487d8572ff/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3168e850c07c6d955144f2208a21d9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d304a49948b5d43ec6986052c19c16e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f98483babbe4d2735af3629448f7319f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4b5fea2172570b0ca86e5eed1609b0d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4907cb3d09ae7fff760961ff4676b196/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/167939b4d47b83c5c174b567c12e1aa1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/396c1aa420e16debb698412923c1a735/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f9edb7c5e16bb86047c7341ce214073d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6b3103f5ad1c1738cb7818c9fe3cb2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a1aa62e87f7917b6f090293a5aa32467/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a33811e8364eef615baa88bdbd0ee025/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+	package
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:17:5-54
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:19:5-35:19
+MERGED from [com.android.support:design:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/edfe568a1e3e057ba417f223401d0382/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/edfe568a1e3e057ba417f223401d0382/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8a7254d40992efc6859c2b2834df1a2c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8a7254d40992efc6859c2b2834df1a2c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/890916462517ecd09743e9487d8572ff/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/890916462517ecd09743e9487d8572ff/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.navdrawerexperiment.MainActivity
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/edfe568a1e3e057ba417f223401d0382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/edfe568a1e3e057ba417f223401d0382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5c742dff4a68776688e61fe40d02aa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5c742dff4a68776688e61fe40d02aa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8a7254d40992efc6859c2b2834df1a2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/weili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8a7254d40992efc6859c2b2834df1a2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/207aac47a6798ea36b0a2ab1b3468a20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/207aac47a6798ea36b0a2ab1b3468a20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/71d280e735164a107c642218fca1a22a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/71d280e735164a107c642218fca1a22a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a23c518fa7cc1c527e2ea019a7f160f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a23c518fa7cc1c527e2ea019a7f160f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4a0342e2f24c4b0e696cfb90a0c5246f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4a0342e2f24c4b0e696cfb90a0c5246f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/aa361c3b046f70ff902f7fd72e11b6d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/aa361c3b046f70ff902f7fd72e11b6d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c1750bb6ca23470fe74186d761eb92c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c1750bb6ca23470fe74186d761eb92c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ee8c95fbfd9bdb64416524618a28cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ee8c95fbfd9bdb64416524618a28cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/a0f7dceb279531a16bfc418b55b42789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/a0f7dceb279531a16bfc418b55b42789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7c8d995f3c9381f80b56104d95b2ad54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/7c8d995f3c9381f80b56104d95b2ad54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4fb809ab0d5bc55e328b6f5c53fbd42e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4fb809ab0d5bc55e328b6f5c53fbd42e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f003bc13290da081837184af5df89d16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f003bc13290da081837184af5df89d16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0a8d15d58bbf293e03321804b2157a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0a8d15d58bbf293e03321804b2157a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e33884e214e9f13a2f1508f1e918585d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e33884e214e9f13a2f1508f1e918585d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3b6e6d3bf128e010df2136cbd615c2b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3b6e6d3bf128e010df2136cbd615c2b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a077f20cce34b56ffff821a8e3133e88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a077f20cce34b56ffff821a8e3133e88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c801aa6492c1e453eedcb6c5d1aef10a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c801aa6492c1e453eedcb6c5d1aef10a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3689f3baabdcc507642891c84162a84e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3689f3baabdcc507642891c84162a84e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f036ac847e15d7ad8256e797b71de1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/890916462517ecd09743e9487d8572ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/890916462517ecd09743e9487d8572ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3168e850c07c6d955144f2208a21d9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3168e850c07c6d955144f2208a21d9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d304a49948b5d43ec6986052c19c16e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d304a49948b5d43ec6986052c19c16e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f98483babbe4d2735af3629448f7319f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f98483babbe4d2735af3629448f7319f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4b5fea2172570b0ca86e5eed1609b0d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4b5fea2172570b0ca86e5eed1609b0d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4907cb3d09ae7fff760961ff4676b196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4907cb3d09ae7fff760961ff4676b196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/167939b4d47b83c5c174b567c12e1aa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/167939b4d47b83c5c174b567c12e1aa1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/396c1aa420e16debb698412923c1a735/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/396c1aa420e16debb698412923c1a735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f9edb7c5e16bb86047c7341ce214073d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/weili/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f9edb7c5e16bb86047c7341ce214073d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6b3103f5ad1c1738cb7818c9fe3cb2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6b3103f5ad1c1738cb7818c9fe3cb2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a1aa62e87f7917b6f090293a5aa32467/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a1aa62e87f7917b6f090293a5aa32467/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a33811e8364eef615baa88bdbd0ee025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/weili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a33811e8364eef615baa88bdbd0ee025/AndroidManifest.xml:20:5-44
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weili/work/learning/AndroidFundamentals/NavDrawerExperiment/app/src/main/AndroidManifest.xml
