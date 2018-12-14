@@ -6,25 +6,61 @@
                 {
                     "source": "/home/weili/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6974c09dd1048043dad76d34014cf74b/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
-                        "endLines": "2,3,4,5,6,7,9,10,11,15",
-                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
-                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,18,19,20",
+                        "startLines": "10,11,12,13,14,15,16,18,19,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,1236",
-                        "endLines": "10,11,12,13,14,15,17,18,19,23",
+                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,1925",
+                        "endLines": "10,11,12,13,14,15,17,18,19,35",
                         "endColumns": "59,69,70,71,57,57,10,63,62,10",
-                        "endOffsets": "666,736,807,879,937,995,1104,1168,1231,1403"
+                        "endOffsets": "666,736,807,879,937,995,1104,1168,1231,2092"
+                    }
+                },
+                {
+                    "source": "/home/weili/work/learning/AndroidFundamentals/MaterialMe-Starter/app/src/main/res/values-sw600dp/styels.xml",
+                    "from": {
+                        "startLines": "3,10,16,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,376,631,464",
+                        "endLines": "8,11,17,15",
+                        "endColumns": "12,52,52,12",
+                        "endOffsets": "370,459,715,626"
+                    },
+                    "to": {
+                        "startLines": "21,27,28,29",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1286,1605,1685,1766",
+                        "endLines": "26,27,28,31",
+                        "endColumns": "12,79,80,12",
+                        "endOffsets": "1600,1680,1761,1920"
+                    }
+                },
+                {
+                    "source": "/home/weili/work/learning/AndroidFundamentals/MaterialMe-Starter/app/src/main/res/values-sw600dp/integers.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1236",
+                        "endColumns": "49",
+                        "endOffsets": "1281"
                     }
                 },
                 {
                     "source": "/home/weili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7781ffe2bda31dd68e86c568f284ce6c/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
                         "startOffsets": "55,124,193,263,337,413,472,543",
