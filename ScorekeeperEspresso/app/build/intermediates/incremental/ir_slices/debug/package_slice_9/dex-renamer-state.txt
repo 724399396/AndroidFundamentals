@@ -1,0 +1,4 @@
+#Sun Dec 16 16:03:02 CST 2018
+base.0=/home/weili/work/learning/AndroidFundamentals/ScorekeeperEspresso/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
